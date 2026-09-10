@@ -48,3 +48,6 @@ Dense Neural Network with 3 layers:
 1.  Clone this repository
     ```bash
     git clone https://github.com/yourusername/mnist-dl-project.git
+## **Author**
+Muhammad Awais khan
+
