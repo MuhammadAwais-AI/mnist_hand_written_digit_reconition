@@ -47,7 +47,7 @@ Dense Neural Network with 3 layers:
 ## **How to Run**
 1.  Clone this repository
     ```bash
-    git clone https://github.com/yourusername/mnist-dl-project.git
+    https://github.com/MuhammadAwais-AI/mnist_hand_written_digit_reconition
 ## **Author**
 Muhammad Awais khan
 
