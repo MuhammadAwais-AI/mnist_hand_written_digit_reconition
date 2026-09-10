@@ -51,3 +51,4 @@ Dense Neural Network with 3 layers:
 ## **Author**
 Muhammad Awais khan
 
+⭐If you found this project helpful please give a star⭐ 
